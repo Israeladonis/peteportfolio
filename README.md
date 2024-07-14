@@ -6,6 +6,6 @@ first project chegg skills single website
 * [github.io](https://israeladonis.github.io/peteportfolio/)
 * [github repo](https://github.com/Israeladonis/peteportfolio)
 
-## Special Thank
+## Special Thanks
 
 To me and Chegg skills
